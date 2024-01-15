@@ -1,0 +1,8 @@
+{
+  "host": "hostname",
+  "port": "port",
+  "user": "db_username",
+  "password": "password",
+  "database": "database",
+  "db_schema": "db_schema"
+}

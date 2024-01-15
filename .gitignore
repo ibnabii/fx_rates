@@ -1,3 +1,5 @@
 /.venv/
 /.idea/
 db_config.json
+all_currency_data.csv
+selected_currency_data.csv
